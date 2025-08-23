@@ -1,0 +1,15 @@
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\obj\Debug\net8.0\OlaUsuario3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\obj\Debug\net8.0\OlaUsuario3.AssemblyInfoInputs.cache
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\obj\Debug\net8.0\OlaUsuario3.AssemblyInfo.cs
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\obj\Debug\net8.0\OlaUsuario3.csproj.CoreCompileInputs.cache
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\obj\Debug\net8.0\OlaUsuario3.sourcelink.json
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\bin\Debug\net8.0\OlaUsuario3.exe
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\bin\Debug\net8.0\OlaUsuario3.deps.json
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\bin\Debug\net8.0\OlaUsuario3.runtimeconfig.json
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\bin\Debug\net8.0\OlaUsuario3.dll
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\bin\Debug\net8.0\OlaUsuario3.pdb
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\obj\Debug\net8.0\OlaUsuario3.dll
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\obj\Debug\net8.0\refint\OlaUsuario3.dll
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\obj\Debug\net8.0\OlaUsuario3.pdb
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\obj\Debug\net8.0\OlaUsuario3.genruntimeconfig.cache
+C:\Users\jaolu\EstagioCSharp\src\OlaUsuario3\obj\Debug\net8.0\ref\OlaUsuario3.dll

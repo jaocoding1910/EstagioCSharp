@@ -1,0 +1,15 @@
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\bin\Debug\net8.0\OlaUsuarioOK.exe
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\bin\Debug\net8.0\OlaUsuarioOK.deps.json
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\bin\Debug\net8.0\OlaUsuarioOK.runtimeconfig.json
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\bin\Debug\net8.0\OlaUsuarioOK.dll
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\bin\Debug\net8.0\OlaUsuarioOK.pdb
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\obj\Debug\net8.0\OlaUsuarioOK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\obj\Debug\net8.0\OlaUsuarioOK.AssemblyInfoInputs.cache
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\obj\Debug\net8.0\OlaUsuarioOK.AssemblyInfo.cs
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\obj\Debug\net8.0\OlaUsuarioOK.csproj.CoreCompileInputs.cache
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\obj\Debug\net8.0\OlaUsuarioOK.sourcelink.json
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\obj\Debug\net8.0\OlaUsuarioOK.dll
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\obj\Debug\net8.0\refint\OlaUsuarioOK.dll
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\obj\Debug\net8.0\OlaUsuarioOK.pdb
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\obj\Debug\net8.0\OlaUsuarioOK.genruntimeconfig.cache
+C:\Users\jaolu\EstagioCSharp\EstagioCSharp\OlaUsuarioOK\obj\Debug\net8.0\ref\OlaUsuarioOK.dll
